@@ -1,4 +1,4 @@
-## Welcome to GUAHAHAHAHAHAAAAAA
+## Welcome to GREHEHEHEHEE
 
 You can use the [editor on GitHub](https://github.com/kitghost/kitghostSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
