@@ -39,6 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 .monospaced {
     font-family: "Courier New", Courier, monospace; 
+    <font size="+2">This is bigger text.</font>
 }
 
 <div class="monospaced">
