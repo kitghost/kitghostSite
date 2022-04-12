@@ -1,9 +1,10 @@
 ## Welcome to hell, a repository for me, my thoughts and my hellish ideas
-
-
-
+<br>
+<br>
+<br>
 ```markdown
-# Famous quotes by me
+Famous quotes by me
+<br>
 My nuts itch
 
 Im not going to die of liver failure im going to die of liver success
@@ -12,9 +13,9 @@ Just huffing some ms.paint
 
 I just had a dream about irrigation
 ```
-
-
-
+<br>
+<br>
+<br>
 ### Social Medias
 
 [Discord](https://discordapp.com/users/221349335311450122)
