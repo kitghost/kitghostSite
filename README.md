@@ -5,8 +5,11 @@
 ```markdown
 # Famous quotes by me
 My nuts itch
+
 Im not going to die of liver failure im going to die of liver success
+
 Just huffing some ms.paint
+
 I just had a dream about irrigation
 ```
 
@@ -15,9 +18,12 @@ I just had a dream about irrigation
 ### Social Medias
 
 [Discord](https://discordapp.com/users/221349335311450122)
+<br>
 [Instagram](https://www.instagram.com/kitghostt/)
+<br>
 [Steam](https://steamcommunity.com/id/kitghost/)
-
+<br>
+<br>
 
 ### Selfie
 
