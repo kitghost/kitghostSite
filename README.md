@@ -20,8 +20,7 @@ I just had a dream about irrigation
 
 [Discord](https://discordapp.com/users/221349335311450122)
 <br>
-[Instagram](https://www.instagram.com/kitghostt/)
-<br>
+
 [Steam](https://steamcommunity.com/id/kitghost/)
 <br>
 <br>
